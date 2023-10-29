@@ -1,0 +1,37 @@
+array (
+  2507 => 
+  array (
+    'img' => '/images/products/neutral/stol/main/7.jpg',
+    'quantity' => '1',
+    'price' => '26080',
+    'title' => '<a href=\'stol_polka_sploshnaya.html\'>Стол разделочный, полка сплошная</a>',
+    'id' => '2507',
+    'count' => '3',
+  ),
+  2574 => 
+  array (
+    'img' => '/images/products/neutral/stellazh/main/4.jpg',
+    'quantity' => '1',
+    'price' => '27755',
+    'title' => '<a href=\'stellazh_sploshnye_polki.html\'>Стеллаж со сплошными полками</a>',
+    'id' => '2574',
+    'count' => '2',
+  ),
+  8383 => 
+  array (
+    'img' => '/images/products/mixer/3.jpg',
+    'quantity' => '1',
+    'price' => '166670',
+    'title' => '<a href=\'dough_mixer.html\'>Тестомес HS20 л</a>',
+    'id' => '8383',
+    'count' => '1',
+  ),
+)
+array (
+  'user_name' => 'Койшебаева Анастасия Игоревна ',
+  'user_phone' => '+77712221575',
+  'user_mail' => '',
+  'city_text' => 'Кокшетау',
+  'user_address' => 'Красный яр , геологов 44/3',
+  'user_comment' => '',
+)
